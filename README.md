@@ -14,6 +14,7 @@ HOW TO CHANGE FORMAT:
 PREP FOR INSTALING THE MOD:
 
 <b>!!YOU NEED 7-ZIP FOR THIS TO WORK!!</b>
+
 Because of the size of the game, the only way I was able to upload it was in parts :*) here's how to turn "Wow what a mess!" back into GAME.DAT:
 -Select ALL the folders found in "Wow what a mess!" and right click it
 -Let it extract wherever you want, it should ultimately wind up back in folder format called "New Compressed (zipped) Folder_2"
