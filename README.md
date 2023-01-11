@@ -8,14 +8,15 @@ HOW TO CHANGE FORMAT:
 -Then back in the main menu, go to your copy of Endless Ocean, right click it and hit "Properties" 
 -In the properties menu, naviate to "Filesystem" and right click "Disk" and hit "Extract entire disk"
 -Extract this disk to a folder of your choice, just be sure this folder is also selected in the previously mentioned "Paths" folder so that Dolphin can find it
-- You should now have an extracted version of the game! Very simple :) 
+
+-You should now have an extracted version of the game! Very simple :) 
 
 HOW TO INSTALL MOD (1)
 
 -Navigate to your extracted version of the game, Enter the "Data" Folder, and then the "Files" folder, there should be 3 files in this folder as well as a folder named "BGM"
 -Delete GAME.DAT and replace it with the GAME.DAT you got from the download here
 -Enter the folder called "bgm"
--Duplicate any of the files "bgm_spot" or "hayley" files EXCEPT for "bgm_spot4"
+-Duplicate any of the files "bgm_spot" or "hayley" EXCEPT for "bgm_spot4"
 -Delete "bgm_spot4" and rename your duplicated files "bgm_spot4"
 -You have now successfully installed one part of the mod!
 
