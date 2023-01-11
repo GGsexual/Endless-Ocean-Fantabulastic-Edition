@@ -11,6 +11,16 @@ HOW TO CHANGE FORMAT:
 
 -You should now have an extracted version of the game! Very simple :) 
 
+PREP FOR INSTALING THE MOD:
+
+<b>!!YOU NEED 7-ZIP FOR THIS TO WORK!!</b>
+Because of the size of the game, the only way I was able to upload it was in parts :*) here's how to turn "Wow what a mess!" back into GAME.DAT:
+-Select ALL the folders found in "Wow what a mess!" and right click it
+-Let it extract wherever you want, it should ultimately wind up back in folder format called "New Compressed (zipped) Folder_2"
+-Inside of that folder is another Zip (I'm so sorry I warned you dude)
+-Extract this Zip like normal using whatever program you want, inside the new extracted folder should be GAME.DAT
+
+
 HOW TO INSTALL MOD (1)
 
 -Navigate to your extracted version of the game, Enter the "Data" Folder, and then the "Files" folder, there should be 3 files in this folder as well as a folder named "BGM"
