@@ -5,9 +5,9 @@ To avoid Nintendo crackdown, I am not supplying the .ISO file here, also, it can
 HOW TO CHANGE FORMAT:
 
 -First you need to go to your config menu in Dolphin emulator, and go to Paths- make sure you have "Search subfolders" selected.
--Then back in the main menu, go to your copy of Endless Ocean, right click it and hit "Properties" 
--In the properties menu, naviate to "Filesystem" and right click "Disk" and hit "Extract entire disk"
--Extract this disk to a folder of your choice, just be sure this folder is also selected in the previously mentioned "Paths" folder so that Dolphin can find it
+<p>-Then back in the main menu, go to your copy of Endless Ocean, right click it and hit "Properties" 
+<p>-In the properties menu, naviate to "Filesystem" and right click "Disk" and hit "Extract entire disk"
+<p>-Extract this disk to a folder of your choice, just be sure this folder is also selected in the previously mentioned "Paths" folder so that Dolphin can find it
 
 -You should now have an extracted version of the game! Very simple :) 
 
